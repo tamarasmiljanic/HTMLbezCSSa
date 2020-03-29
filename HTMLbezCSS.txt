@@ -1,0 +1,98 @@
+Tamara Smiljanic
+<!DOCTYPE html>
+<html lang="sr">
+<head>
+        <title>Homeopathy zen</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width , initial-scale=1.0">
+</head>
+
+<body>
+        <!--Main header-->
+        <header>
+			<section>
+				<h1><a href="#"><img src="img/bottles-1.jpg" alt="Logo"></a></h1>
+			</section>
+        </header>
+        <!--Main header END-->
+        <nav>
+			<div>
+				<ul>
+					<li><a href="#" target="_blank">Početna</a></li>
+					<li><a href="#" target="_blank">O nama</a></li>
+					<li><a href="#" target="_blank">Novosti</a></li>
+					<li><a href="#" target="_blank">Galerija</a></li>
+					<li><a href="#" target="_blank">Kontakt</a></li>
+				</ul>
+			</div>
+        </nav>
+
+        <main>
+                <section>
+					<a href="#"><img src="img/arnica.jpg" alt="Arnicea"></a>
+					<article>
+						<h2>Homeopatija</h2>
+						<p>Homeopatija je komplementarna  grana medicine  koja se zasniva na holističkom pristupu pacijentu. Ovo podrazumeva da se kod pacijenta prilikom pregleda i određivanja leka, osim lokalnih simptoma, uvažavaju i mentalne i emocionalne osobine, tj. pacijent se poštuje kao   jedna celovita individua.</p>
+						<p>Homeopatija je postavljena na jasnim osnovama, logičnim principima i zakonski definisanim  procedurama u dijagnostici i lečenju. Ona je  efikasna i naučno zasnovana medicinska metoda lečenja, koja stimuliše prirodne sposobnosti čovekovog organizma na putu izlečenja.</p>
+						<p>Sva stanja poremećenog zdravlja odraz  su poremećene ravnoteže u čoveku i bolestan čovek je  taj koji treba da bude lečen, a ne njegova bolest.</p>
+					</article>
+                </section>
+                <section>
+				<h2>Najvaznije vesti</h2>
+                        <article>
+							<header>
+							<a href="#" target="_blank">Prednosti homeopatije</a>
+							<time datetime="2020-03-29">29.mart.2020</time>
+							</header>
+							<div>
+								<p>Pri  izboru leka uopšte, najvažnije osobine su  što veća efikasnost i  što manja toksičnost, tj.  važno je  da lek  ima  što manje nuzefekata.</p>
+
+								<p>Za homeopatske lekove se može reći da su potpuno netoksični, što izuzetno pogoduje  trudnicama  i maloj deci. Takodje,  nemaju  neželjenih efekata  niti nuspojava ako se uzimaju u vremenskom periodu koje je preporučeno. Nema zadesnog trovanja jer  se radi o šećernim /laktoza, saharoza/ kuglicama ili tabletama na koje je naneta lekovita supstanca u minimalnoj dozi.</p>
+							</div>
+                        </article>
+							
+                        <article>
+							<header>
+							<a href="#" target="_blank">Homeopatski lekovi</a>
+							<time datetime="2020-03-18">18.mart.2020</time>
+							</header>
+							<div>
+								<p>Homeopatski lekovi  su naročito pogodni  u trudnoći kada je zabranjena upotreba većine konvencionalnih lekova.  Odlični su kod muke, povraćanja, napetosti, neraspoloženja, strahova..</p>
+
+								<p>Odlični su i kao priprema za porodjaj jer mogu da otklone  strah od porodjaja i olakšavaju  tegobe iz ranog postoporodjajnog perioda.</p>
+
+								<p>Bezbroj kliničkih ispitivanja u svetu, potvrdilo je da  homeopatska sredstva ( lekovi ), ne mogu da prouzrokuju sporedna dejstva i da se od njih ne može postati zavisan.</p>
+
+								<p>Veoma je važno da lekar homeopata pravilno odredi sliku stanja tegoba kod pacijenta, jer od toga zavisi uspešnost lečenja homeopatijom (iz tog razloga se kaže : “homeopatija ili deluje ili ne deluje”).</p>
+
+								<p>Za homeopatske lekove se može reći da su potpuno netoksični, što izuzetno pogoduje  trudnicama  i maloj deci. Takodje,  nemaju  neželjenih efekata  niti nuspojava ako se uzimaju u vremenskom periodu koje je preporučeno. Nema zadesnog trovanja jer  se radi o šećernim /laktoza, saharoza/ kuglicama ili tabletama na koje je naneta lekovita supstanca u minimalnoj dozi.</p>
+							</div>
+                        </article>
+
+                </section>
+        </main>
+
+        <!--Sidebar-->
+        <div>
+			<section>
+				<a href="#" target="_blank"><img src="img/baner-1.jpg" alt="Baner 1"></a>
+				<a href="#" target="_blank"><img src="img/baner-2.jpg" alt="Baner 2"></a>
+			</section>
+			<section>
+			<h3>Pratite nas</h3>
+			<ul>
+				<li><a href="https://www.facebook.com" target="_blank">Facebook</a></li>
+				<li><a href="https://www.instagram.com" target="_blank">Instagram</a></li>
+				<li><a href="https://www.twitter.com" target="_blank">Twitter</a></li>
+			</ul>
+			</section>
+        </div>
+        <!--sidebar end-->
+
+        <footer>
+                <div>
+                        <small>&copy; All rights reserved.</small>
+                </div>
+        </footer>
+</body>
+</html>
